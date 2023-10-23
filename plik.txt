@@ -1,1 +1,3 @@
 "Tekstowy plik dla konfliktu" 
+Pierwsza
+	i druga linijka.
